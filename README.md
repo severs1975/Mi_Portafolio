@@ -7,7 +7,7 @@
 1. **[Aplicación de Finanzas Personales](https://github.com/usuario/finanzas-personales)**
    - **Descripción:** Una aplicación web para ayudar a las personas a gestionar sus finanzas personales.
    - **Tecnologías:** React, Node.js, MongoDB.
-   - **Estado:** En producción.
+   - **Estado:** En desarrollo.
 
 2. **[Generador de Páginas para Libros para Colorear](https://github.com/usuario/generador-libros-para-colorear)**
    - **Descripción:** Una herramienta que utiliza IA para generar páginas de libros para colorear personalizadas.
@@ -17,7 +17,7 @@
 3. **[E-commerce de Alimentos Saludables](https://github.com/usuario/ecommerce-alimentos)**
    - **Descripción:** Una tienda en línea para la venta de alimentos saludables.
    - **Tecnologías:** Shopify, Liquid, JavaScript.
-   - **Estado:** Completado.
+   - **Estado:** En desarrollo.
 
 ## Proyectos al Capacitarme
 

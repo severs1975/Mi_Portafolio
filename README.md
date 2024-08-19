@@ -1,7 +1,3 @@
-# Mi Portafolio
-
-¡Bienvenido a mi portafolio de proyectos! Aquí encontrarás una colección de proyectos en los que he trabajado, que van desde aplicaciones web hasta herramientas de inteligencia de negocios.
-
 ## Proyectos al Capacitarme
 
 1. **[Business Intelligence](https://github.com/severs1975/BI)**

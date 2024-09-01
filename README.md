@@ -5,7 +5,7 @@
    - **Estado:** En curso.
    - **Proyeto:** Diseñar un dashboard para la toma de decisiones en base a la frecuencia de llamados de los clientes al servicio de atención al cliente después de su primera consulta.
    
-3. **[Programacion]**
+3. **Programacion:**
     - **Descripción:** Diferentes proyectos realizados mientras me capacitaba en Digital House.
     - **Tecnologías:** Java, React, SQL, JavaScript, HTML, CSS
     - **Estado:** Completado.

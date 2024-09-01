@@ -10,9 +10,9 @@
     - **Tecnologías:** Java, React, SQL, JavaScript, HTML, CSS
     - **Estado:** Completado.
     - **Proyectos:**
-      - 1. Clinica Odontologica (Front end).
-      - 2. Clinica Odontologica (Back end).
-      - 3. Plataforma para alquiler de disfraces (Front end & Back end) https://github.com/severs1975/AlquilerDisfraces.git
+      - Clinica Odontologica (Front end).
+      - Clinica Odontologica (Back end).
+      - Plataforma para alquiler de disfraces (Front end & Back end) https://github.com/severs1975/AlquilerDisfraces.git
   
   
 ## Proyectos Personales

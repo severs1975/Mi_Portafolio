@@ -1,10 +1,10 @@
 ## Proyectos al Capacitarme
 
 1. **Business Intelligence:** https://public.tableau.com/app/profile/sebastian.evers/vizzes
-   - **Descripción:** Diferentes proyectos realizados mientras me capacito en la Facultad de Ingenieria de la UBA y Coursera.
-   - **Estado:** En curso.
-   - **Proyeto:** Diseñar un dashboard para comprender con qué frecuencia los clientes vuelven a llamar al servicio de atención al cliente después de su primera consultala.
-   
+   - **Proyeto:** Diseñar un dashboard para comprender con qué frecuencia los clientes vuelven a llamar al servicio de atención al cliente de "Google Fiber" después de su primera
+     consultala.
+   - **Estado:** Completado.
+       
 2. **Programacion:**
     - **Descripción:** Diferentes proyectos realizados mientras me capacitaba en Digital House.
     - **Tecnologías:** Java, React, SQL, JavaScript, HTML, CSS

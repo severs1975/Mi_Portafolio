@@ -3,7 +3,7 @@
 1. **Business Intelligence:** https://public.tableau.com/app/profile/sebastian.evers/vizzes
    - **Descripción:** Diferentes proyectos realizados mientras me capacito en la Facultad de Ingenieria de la UBA y Coursera.
    - **Estado:** En curso.
-   - **Proyeto:** Diseñar un dashboard para la toma de decisiones en base a la frecuencia de llamados de los clientes al servicio de atención al cliente después de su primera consulta.
+   - **Proyeto:** Diseñar un dashboard para comprender con qué frecuencia los clientes vuelven a llamar al servicio de atención al cliente después de su primera consultala.
    
 2. **Programacion:**
     - **Descripción:** Diferentes proyectos realizados mientras me capacitaba en Digital House.
